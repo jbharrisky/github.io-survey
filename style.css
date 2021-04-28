@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+p {
+  text-align: center;
+  font-size: 2em;
+
+}
+
+.freepie {
+    font-size: 22px;
+}
+
+.toppings {
+  font-size: 22px;
+}
+
+#submit {
+  
+  background-color: grey;
+  font-size: 26px;
+}
